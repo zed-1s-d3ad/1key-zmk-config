@@ -17,3 +17,6 @@
 #     artifact-name: corne_left_with_logging
 #
 ---
+board: [ "seeeduino_xiao" ]
+shield: [ "1key" ]
+
